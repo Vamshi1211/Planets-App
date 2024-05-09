@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.item-container {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.image {
+  width: 100%;
+}
+
+.planet-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+
+.planet-des {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 30px;
+}
